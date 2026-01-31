@@ -1,6 +1,12 @@
 # 💫 About Me:
 ᓭ↸⚍⍑⊣||⎓  ⍑||╎⎓  ∴⍑⊣⎓  ᓭ  ⍑⎓ᓭ⍑⍊
 
+### Environment
+
+- OS: Windows 10 / Linux Mint 22.3
+- IDE: Visual Studio Code, Neovim
+- Shell: PowerShell
+
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:lzuselis) 
 
@@ -10,4 +16,18 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=hidno&icon=5&color=8)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+
+
+
+
+
+
+```py
+ _______ __      __             __          __     __                                        ___         __                             __   __ 
+|   _   |__|    |__|.-----.    |  |_.---.-.|  |--.|__|.-----.-----.    .--------.--.--.    .'  _|.--.--.|  |_.--.--.----.-----.        |__|,' _|
+|       |  |    |  ||__ --|    |   _|  _  ||    < |  ||     |  _  |    |        |  |  |    |   _||  |  ||   _|  |  |   _|  -__|         __/  /  
+|___|___|__|    |__||_____|    |____|___._||__|__||__||__|__|___  |    |__|__|__|___  |    |__|  |_____||____|_____|__| |_____|        |__\  \_ 
+                                                            |_____|             |_____|                                                    `.__|
